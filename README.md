@@ -1,1 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiGyuJin-Choanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuJin-Cho_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
