@@ -3,11 +3,11 @@
 <br><h1>Welcome GyuJin-Cho GitHub</h1></br>
 <br>I Game Dveloper </br>
 <div align=center><h1></h1></div>
-<a href="s">
+<a href="s" align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuJin-Cho&exclude_repo=GyuJin-Cho.github.io&layout=compact&theme=tokyonight" />
 </a>
-<div align=center><h1></h1></div>
-<a href="s">
+<br></br>
+<a href="s" align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=GyuJin-Cho&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <br></br>
