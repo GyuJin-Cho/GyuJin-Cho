@@ -2,7 +2,7 @@
 <br></br>
 <br><h1>Welcome GyuJin-Cho GitHub</h1></br>
 <br>I Game Dveloper </br>
-<div align=center><h1></h1></div>
+<div align=center>GitHub State & Most Language<h1></h1></div>
 <a href="s" align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuJin-Cho&exclude_repo=GyuJin-Cho.github.io&layout=compact&theme=tokyonight" />
 </a>
