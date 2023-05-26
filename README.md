@@ -1,4 +1,4 @@
-Welcome GyuJin-Cho GitHub
+<br>Welcome GyuJin-Cho GitHub</br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuJin-Cho&exclude_repo=GyuJin-Cho.github.io&layout=compact&theme=tokyonight" />
 </a>
