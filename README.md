@@ -17,5 +17,5 @@
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
-<div align=center><h1>Algorithm</h1></div>
+<div align=center><h1>Algorithm</h1>
   [![Solved.ac jjabkk](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjabkk)](https://solved.ac/jjabkk)
