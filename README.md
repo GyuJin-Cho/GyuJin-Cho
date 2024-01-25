@@ -14,7 +14,6 @@
 <br></br>
 <div align=center><h1>STACKS</h1></div>
 <div align=center>
-  <a href="https://opgc.me/#/users/gyujin-cho" target="_blank"><img src="https://api.opgc.me/githubs/users/gyujin-cho/tag/?theme=basic" /></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
@@ -24,3 +23,4 @@
  <div align=center><h1>Algorithm</h1></div>
  
   [![Solved.ac jjabkk](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjabkk)](https://solved.ac/jjabkk)
+  <a href="https://opgc.me/#/users/gyujin-cho" target="_blank"><img src="https://api.opgc.me/githubs/users/gyujin-cho/tag/?theme=basic" /></a>
